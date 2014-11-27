@@ -1,0 +1,20 @@
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\P24 Serial Writer.exe.config
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\P24 Serial Writer.exe
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\P24 Serial Writer.pdb
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\P24 Serial Writer.xml
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\P24 Serial Writer.exe
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\P24 Serial Writer.xml
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\P24 Serial Writer.pdb
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\SerialWriter\bin\Debug\P24 Serial Writer.exe.config
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\SerialWriter\bin\Debug\P24 Serial Writer.exe
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\SerialWriter\bin\Debug\P24 Serial Writer.pdb
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\SerialWriter\bin\Debug\P24 Serial Writer.xml
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\SerialWriter\obj\Debug\SerialWriter.Form1.resources
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\SerialWriter\obj\Debug\SerialWriter.Resources.resources
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\SerialWriter\obj\Debug\SerialWriter.vbproj.GenerateResource.Cache
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\SerialWriter\obj\Debug\P24 Serial Writer.exe
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\SerialWriter\obj\Debug\P24 Serial Writer.xml
+C:\Users\Rotem.SensicsPC\Desktop\WindowsApplication1\SerialWriter\obj\Debug\P24 Serial Writer.pdb
